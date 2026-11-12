@@ -1,0 +1,12 @@
+HOTEL LERROMA — COMO ABRIR
+
+1. Extraia TODO o ZIP para uma pasta.
+2. Abra o arquivo index.html desta pasta no Google Chrome.
+3. Mantenha a pasta images ao lado do index.html.
+
+Não precisa instalar Node ou iniciar servidor para esta versão.
+WhatsApp e mapa precisam de internet.
+
+O código-fonte para GitHub/Vercel está em projeto-react.
+Leia projeto-react/README.md para desenvolvimento e publicação.
+As fotos foram extraídas dos prints por autorização do usuário; a resolução é limitada.
